@@ -1,7 +1,6 @@
 # CaPTk WhiteStripe Normalization
 
-Flywheel gear that implements (https://cbica.github.io/CaPTk/Glioblastoma_WhiteStripe.html) (This algorithm normalizes conventional brain MRI scans [1] by detecting a latent subdistribution of normal tissue and linearly scaling the histogram of images. It is to be used on structural modalities only.
-
+Flywheel gear that implements (https://cbica.github.io/CaPTk/Glioblastoma_WhiteStripe.html) (This algorithm normalizes conventional brain MRI scans [1] by detecting a latent subdistribution of normal tissue and linearly scaling the histogram of images. It is to be used on structural modalities.
 
 ## Dependencies:
 - CaPTk (gear uses the existing Docker container l)
