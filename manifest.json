@@ -11,7 +11,7 @@
   "custom": {
     "gear-builder": {
       "category": "analysis",
-      "image": "cbica/captk:latest"
+      "image": "chop.flywheel.io/captk-whitestripe-normalization:0.0.0""
     },
     "flywheel": {
       "suite": "CaPTk"
