@@ -6,7 +6,7 @@
 
 #############################################
 # Select the OS
-FROM cbica/captk:latest
+FROM cbica/captk:190rc
 LABEL authors="CBICA_UPenn <software@cbica.upenn.edu>"
 
 #############################################
